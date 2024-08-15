@@ -1,4 +1,4 @@
-with open('C:/xampp/htdocs/trash/archivoS.txt', 'r', encoding='utf-8') as f:
+with open('C:/your route', 'r', encoding='utf-8') as f:
     texto_completo = f.read()
     
 max_longitud = 14500
